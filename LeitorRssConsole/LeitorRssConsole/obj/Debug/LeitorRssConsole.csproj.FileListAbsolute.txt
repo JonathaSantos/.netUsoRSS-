@@ -1,0 +1,7 @@
+C:\Users\DETRAN\Documents\Jonatha Documentos\_Projetos\.netUsoRSS-\LeitorRssConsole\LeitorRssConsole\bin\Debug\LeitorRssConsole.exe.config
+C:\Users\DETRAN\Documents\Jonatha Documentos\_Projetos\.netUsoRSS-\LeitorRssConsole\LeitorRssConsole\bin\Debug\LeitorRssConsole.exe
+C:\Users\DETRAN\Documents\Jonatha Documentos\_Projetos\.netUsoRSS-\LeitorRssConsole\LeitorRssConsole\bin\Debug\LeitorRssConsole.pdb
+C:\Users\DETRAN\Documents\Jonatha Documentos\_Projetos\.netUsoRSS-\LeitorRssConsole\LeitorRssConsole\obj\Debug\LeitorRssConsole.csprojAssemblyReference.cache
+C:\Users\DETRAN\Documents\Jonatha Documentos\_Projetos\.netUsoRSS-\LeitorRssConsole\LeitorRssConsole\obj\Debug\LeitorRssConsole.csproj.CoreCompileInputs.cache
+C:\Users\DETRAN\Documents\Jonatha Documentos\_Projetos\.netUsoRSS-\LeitorRssConsole\LeitorRssConsole\obj\Debug\LeitorRssConsole.exe
+C:\Users\DETRAN\Documents\Jonatha Documentos\_Projetos\.netUsoRSS-\LeitorRssConsole\LeitorRssConsole\obj\Debug\LeitorRssConsole.pdb
